@@ -2,7 +2,7 @@
 
 ## Overview
 
-This challenge focuses on transforming medical notes into a structured JSON format, making the data more accessible and easier to analyze.
+This challenge focused on transforming medical notes into a structured JSON format, making the data more accessible and easier to analyze.
 
 ## Features
 
